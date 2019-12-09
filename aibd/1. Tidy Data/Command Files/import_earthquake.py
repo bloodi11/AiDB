@@ -16,4 +16,4 @@ rank = new_data.groupby(['Age', 'Gender', 'One Big happen?'])
 
 print(new_data)
 
-new_data.to_csv(index=False)
+new_data.to_csv(r'../Analysis Data/results.csv', index = False, header = True)
