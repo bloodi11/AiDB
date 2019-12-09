@@ -6,6 +6,7 @@
         * workspace
     * Analysis Data
         * earthquake_data.csv
+		* results.csv
     * Command Files
         * import_earthquake.py
     * Documents
@@ -15,13 +16,13 @@
         
 **************************************
 
-* Purpose : create analysis of data earthquake_data.csv
+* Purpose : create analysis of data earthquake_data.csv put results to results.csv
 
 **************************************
 
 *** directory .idea contains files of PyCharm by JetBrains
 
-*** directory Analysis Data contains .csv with modified data by Command Files script in python
+*** directory Analysis Data contains .csv with modified data by Command Files script in python and results.csv with results
 
 *** directory Command Files contains .py script to modify original data earthquake_data.csv from Original Data
 
